@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Core.Web", "src\CoreApplication\Core.Web.xproj", "{5D6EAB45-AEDC-46F0-9CDB-6A9100B622FC}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Core.Web", "src\Core.Web\Core.Web.xproj", "{5D6EAB45-AEDC-46F0-9CDB-6A9100B622FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

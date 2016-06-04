@@ -68,6 +68,7 @@
 
   "frameworks": {
     "dnx451": { }
+   
   },
 
   "buildOptions": {
