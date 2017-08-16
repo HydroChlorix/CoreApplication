@@ -1,6 +1,7 @@
 {
-  "name": "Web_Mvc",
+  "name": "CoreApplication2017",
   "version": "0.0.0",
+  "homepage": "http://hydrochlorix.github.io/CoreApplication/",
   "scripts": {
     "test": "karma start ClientApp/test/karma.conf.js"
   },
