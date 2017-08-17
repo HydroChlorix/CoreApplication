@@ -2,6 +2,8 @@
   "name": "CoreApplication2017",
   "version": "0.0.0",
   "homepage": "http://hydrochlorix.github.io/CoreApplication/",
+  "description": "Test implement for dotnet core 2.0",
+  "repository": "https://github.com/HydroChlorix/CoreApplication",
   "scripts": {
     "test": "karma start ClientApp/test/karma.conf.js"
   },
