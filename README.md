@@ -1,0 +1,2 @@
+# CoreApplication
+dotnetcore playground.
